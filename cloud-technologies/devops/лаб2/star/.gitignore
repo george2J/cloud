@@ -1,0 +1,3 @@
+set_vars.sh
+.terraform
+.terraform.lock.hcl
